@@ -1,0 +1,9 @@
+pymupdf
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-dotenv
+pytesseract
+Pillow
+opencv-python
